@@ -1,2 +1,1 @@
-### Hi there 👋
-
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphaelpmros&show_icons=true&theme=dark)
