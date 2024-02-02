@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Engenheiro civil, estudante de analise e desenvolvimento de sistemas e apaixonado por programação. <br/> Estagiário fullstack em PedBot
+### Engenheiro civil, estudante de analise e desenvolvimento de sistemas e apaixonado por programação. <br/><br/> Estagiário fullstack em PedBot
 ### Find me here ⬇️
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphaelpmros)
