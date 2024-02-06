@@ -43,7 +43,7 @@
 
 ### Projects:
 
-[Pokedex](https://pokedex-orcin-eta.vercel.app/) - [Repository](https://github.com/Raphaelpmros/pokedex)
-[Calculator](https://calculator-tau-red.vercel.app/) - [Repository](https://github.com/Raphaelpmros/calculator)
-[Dungeons and dragons web page](https://dn-d-lore-page.vercel.app/) - [Repository](https://github.com/Raphaelpmros/DnD_lore_page) (Em desenvolvimento)
-[Score tracker](https://score-keeper-six.vercel.app/) - [Repository](https://github.com/Raphaelpmros/scoreKeeper)
+[Pokedex](https://pokedex-orcin-eta.vercel.app/) - [Repository](https://github.com/Raphaelpmros/pokedex)<br/>
+[Calculator](https://calculator-tau-red.vercel.app/) - [Repository](https://github.com/Raphaelpmros/calculator)<br/>
+[Dungeons and dragons web page](https://dn-d-lore-page.vercel.app/) - [Repository](https://github.com/Raphaelpmros/DnD_lore_page) (Em desenvolvimento)<br/>
+[Score tracker](https://score-keeper-six.vercel.app/) - [Repository](https://github.com/Raphaelpmros/scoreKeeper)<br/>
