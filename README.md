@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raphaelpmros@hotmail.com)
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphaelpmros&show_icons=true&theme=dark)<br/>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raphelpmros&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)<br/>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raphaelpmros&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)<br/>
 
 ### Skills
 
